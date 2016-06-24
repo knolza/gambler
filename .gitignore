@@ -13,12 +13,14 @@
 
 # Executables
 *.exe
+gambler
 
 # DUB
 .dub
 docs.json
 __dummy.html
 docs/
+dub.selection.json
 
 # Code coverage
 *.lst

@@ -1,0 +1,8 @@
+name "gambler"
+description "A world first p2p gambling and lottery service"
+authors "Ye Zune"
+copyright "Ye Zune"
+license "GPLv3"
+dependency "vibe-d" version="~>0.7.26"
+versions "VibeDefaultMain"
+buildOptions "verbose" 
