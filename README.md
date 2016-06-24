@@ -1,5 +1,5 @@
 # Gambler
-###World first p2p rottery cryptocurrency.
+###World first p2p lottery cryptocurrency.
 
 ## whate is Gambler?
 
